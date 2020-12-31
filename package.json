@@ -1,0 +1,22 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "portfolio lading page from prepared template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertthewinner2000/portfolio_template1.git"
+  },
+  "author": "Namir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertthewinner2000/portfolio_template1/issues"
+  },
+  "homepage": "https://github.com/albertthewinner2000/portfolio_template1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
